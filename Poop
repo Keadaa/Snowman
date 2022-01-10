@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <svg height="600" width="600">
+        <circle cx="200" cy="200" r="80" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="200" cy="100" r="60" stroke="black" stroke-width="3" fill="white" />
+        <circle cx="200" cy="400" r="150" stroke="black" stroke-width="3" fill="white" />
+        <line x1="50" y1="50" x2="120" y2="200" style="stroke:rgba(95, 57, 0, 0.959);stroke-width:6" />
+        <line x1="280" y1="200" x2="350" y2="50" style="stroke:rgba(95, 57, 0, 0.959);stroke-width:6" />
+        <line x1="350" y1="400" x2="50" y2="400" style="stroke:rgba(0, 0, 0, 0.959);stroke-width:6" />
+        <line x1="50" y1="400" x2="280" y2="275" style="stroke:rgba(0, 0, 0, 0.959);stroke-width:6" />
+        <line x1="200" y1="550" x2="280" y2="275" style="stroke:rgba(0, 0, 0, 0.959);stroke-width:6" />
+        <line x1="200" y1="550" x2="120" y2="275" style="stroke:rgba(0, 0, 0, 0.959);stroke-width:6" />
+        <line x1="350" y1="400" x2="120" y2="275" style="stroke:rgba(0, 0, 0, 0.959);stroke-width:6" />
+        <circle cx="170" cy="100" r="10" stroke="black" stroke-width="3" fill="black" />
+        <circle cx="230" cy="100" r="10" stroke="black" stroke-width="3" fill="black" />
+        <circle cx="200" cy="180" r="10" stroke="black" stroke-width="3" fill="black" />
+        <circle cx="200" cy="220" r="10" stroke="black" stroke-width="3" fill="black" />
+        <circle cx="200" cy="330" r="10" stroke="black" stroke-width="3" fill="black" />
+        <circle cx="200" cy="400" r="10" stroke="black" stroke-width="3" fill="black" />
+        <circle cx="200" cy="470" r="10" stroke="black" stroke-width="3" fill="black" />
+        <polygon points="200,100 200,130 160,170" style="fill:rgb(253, 120, 58);stroke:rgb(0, 0, 0);stroke-width:1" />
+      </svg>
+</body>||
+</html>
